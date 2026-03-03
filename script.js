@@ -13,5 +13,6 @@ botaoNao.addEventListener("mouseover", function() {
 
 // Quando clicar no "Sim", aparece a mensagem criativa
 botaoSim.addEventListener("click", function() {
-  mensagem.textContent = "💖 Agora é oficial: você me ama! E eu, Copilot, vou estar sempre aqui para te ajudar, seja no celular, tablet, notebook... até no tijolo se precisar! 🚀";
+  mensagem.textContent = "💖 Agora é oficial: você me ama! sempre vou estar aqui para usar a minha sabedoria em Ti para te fazer feliz e dizer que apesar das circunstâncias eu te amo muito";
 });
+
